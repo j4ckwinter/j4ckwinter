@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="assets/trainer-card.svg" width="440" alt="Jack Winter's save card. Software engineer, level 15, London. Status: building stuff. Original pixel-art coder at a desk." />
+<img src="assets/laptop-padel.svg" width="220" height="120" alt="A laptop beside a padel racket and ball, illustrated in warm cream and terracotta." />
 
-<br>
+### jack winter
 
-[Portfolio](https://winterbyte.vercel.app/) &nbsp; · &nbsp; [GitHub](https://github.com/j4ckwinter) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/jack-winter-409a09a4)
+Software engineer in London.<br>
+Usually building something. Occasionally playing padel.
+
+[portfolio](https://winterbyte.vercel.app/) &nbsp; · &nbsp; [github](https://github.com/j4ckwinter) &nbsp; · &nbsp; [linkedin](https://linkedin.com/in/jack-winter-409a09a4)
+
+</div>

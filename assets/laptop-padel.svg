@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="120" viewBox="0 0 220 120" role="img" aria-labelledby="title desc">
+  <title id="title">Building things, playing padel</title>
+  <desc id="desc">A small cream laptop with a green screen sits beside a terracotta padel racket and a green ball. The background is transparent.</desc>
+  <g stroke="#66203d" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="23" y="30" width="108" height="66" rx="5" fill="#f9efe5"/>
+    <rect x="31" y="38" width="92" height="49" rx="2" fill="#eff5e8"/>
+    <path d="M54 60l-7 6 7 6m45-12 7 6-7 6" fill="none" stroke="#3d5a24"/>
+    <path d="M83 56l-9 20" fill="none" stroke="#3d5a24"/>
+    <path d="M23 96h108l13 8H10z" fill="#eedfce"/>
+    <path d="M63 96h28l3 4H60z" fill="#f9efe5"/>
+    <g transform="rotate(23 163 66)">
+      <path d="M157 73h12v16h-12z" fill="#d4854a"/>
+      <rect x="157" y="86" width="12" height="24" rx="3" fill="#f9efe5"/>
+      <path d="M158 92h10m-10 6h10m-10 6h10" fill="none" stroke="#d4854a" stroke-width="2"/>
+      <path d="M163 16c-17 0-25 11-25 27 0 15 9 27 19 32h12c10-5 19-17 19-32 0-16-8-27-25-27z" fill="#d4854a"/>
+      <path d="M163 22c-13 0-19 8-19 21 0 12 7 22 15 27h8c8-5 15-15 15-27 0-13-6-21-19-21z" fill="#f9efe5"/>
+      <g fill="#66203d" stroke="none">
+        <circle cx="155" cy="34" r="2"/><circle cx="163" cy="34" r="2"/><circle cx="171" cy="34" r="2"/>
+        <circle cx="151" cy="43" r="2"/><circle cx="159" cy="43" r="2"/><circle cx="167" cy="43" r="2"/><circle cx="175" cy="43" r="2"/>
+        <circle cx="155" cy="52" r="2"/><circle cx="163" cy="52" r="2"/><circle cx="171" cy="52" r="2"/>
+        <circle cx="159" cy="61" r="2"/><circle cx="167" cy="61" r="2"/>
+      </g>
+    </g>
+    <circle cx="202" cy="99" r="8" fill="#8fa84a"/>
+    <path d="M197 93c5 3 7 7 6 13" fill="none" stroke="#eff5e8" stroke-width="2"/>
+  </g>
+</svg>
