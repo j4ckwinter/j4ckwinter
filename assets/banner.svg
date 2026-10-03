@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Jack Winter — software engineer in London</title>
-  <desc id="desc">Usually building something. Occasionally playing padel. A warm cream banner with a laptop, padel racket and ball.</desc>
+  <desc id="desc">Usually building something. Occasionally playing padel. Making AI a little less chaotic. A warm cream banner with a laptop, padel racket and ball.</desc>
   <defs>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" fill="none" stroke="#66203d" stroke-opacity="0.045"/>
@@ -16,6 +16,7 @@
     <path d="M64 268h48" stroke="#d4854a" stroke-width="4" stroke-linecap="round"/>
     <text x="64" y="313" font-size="18" fill="#76594f">Usually building something.</text>
     <text x="64" y="342" font-size="18" fill="#76594f">Occasionally playing padel.</text>
+    <text x="64" y="371" font-size="18" fill="#76594f">Making AI a little less chaotic.</text>
   </g>
   <g transform="translate(734 87) scale(2.05)">
   <g stroke="#66203d" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
