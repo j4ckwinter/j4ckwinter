@@ -1,9 +1,7 @@
 # hey, i'm jack.
 
-software engineer in london. i spend a lot of time making things, then figuring out how to make them less complicated.
+software engineer based in london. i enjoy building things, solving interesting problems, and exploring new technologies.
 
-recently, that’s meant working out how to get useful code out of ai without turning every review into a second job. pancake stack is where i keep the skills that help.
-
-away from the keyboard, probably playing padel. pancakes also feature.
+interested in software, ai, and finding better ways to turn ideas into useful products.
 
 [portfolio](https://winterbyte.vercel.app/) · [linkedin](https://linkedin.com/in/jack-winter-409a09a4)
